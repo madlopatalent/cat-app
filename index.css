@@ -4,19 +4,14 @@ body {
 }
 
 .cat {
-background-color: #FFFFFF;
-margin: 1em;
+background-color: #33a1fd;
+margin: 0.5em;
  padding: 1em;
  border-radius: 1em;
  border-radius: 1em;
- border: 1px solid #222222;
+ border: 3px solid #faf7f7;
  flex: 1;
 }
-
-/*.cats {
-  display: flex;
-
-}*/
 
 
 @media (min-width : 960px){
@@ -29,14 +24,14 @@ margin: 1em;
 }
 
 fieldset {
-margin: 1m;
+margin: 1em;
 border: 0m;
 }
 
 button {
-  padding: 1px;
+  padding: 1em;
   border: 3px solid;
-  border-radius:0.5cm;
+  border-radius:0.5em;
 }
 input {
 
