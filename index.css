@@ -22,13 +22,10 @@ margin: 0.5em;
   }
 
 }
-@media (min-width : 300px){
-
-  .cats {   
-     display: flex;
-
-  }
-
+@media (min-width:360px) {
+    body {
+        background-color: #ffff;
+    }
 }
 
 fieldset {
